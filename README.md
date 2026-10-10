@@ -1,8 +1,8 @@
-# DecodeLabs Project 1: Rule-Based AI Chatbot
+ Rule-Based AI Chatbot
 
 ## 📌 Project Description
 
-This project is a simple **Rule-Based AI Chatbot** developed using **Python basics**. The chatbot responds to user input based on predefined rules and conditions using **if-elif-else statements**. It is designed as **DecodeLabs Project 1** to demonstrate foundational programming concepts such as variables, strings, input/output, loops, control flow, and decision-making logic.
+This project is a simple **Rule-Based AI Chatbot** developed using **Python basics**. The chatbot responds to user input based on predefined rules and conditions using **if-elif-else statements**. It is designed  to demonstrate foundational programming concepts such as variables, strings, input/output, loops, control flow, and decision-making logic.
 
 The chatbot follows a rule-based approach where specific user messages trigger specific responses. This helps understand how basic AI-like conversation systems can be built using simple programming logic.
 
